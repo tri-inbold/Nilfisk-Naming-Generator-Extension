@@ -1,0 +1,1 @@
+# Nilfisk-Naming-Generator-Extension
